@@ -1,2 +1,12 @@
-# TP1-Open-Source
-Ce dépôt a été créé dans le cadre du Travail Pratique 1 (TP1). Il regroupe les notions fondamentales abordées lors de cette séance :Partie 1 : Discussion sur les logiciels libres, l'Open Source, et leur importance cruciale dans les sciences de l'environnement, ainsi que le partage des données scientifiques et la reproductibilité.   Partie 2 & 3 : Découverte de la plateforme GitHub sous Windows, création du compte, et initialisation de ce premier dépôt (Repository) avec son fichier README.md.   Auteur : YAHYA MELIANI : Sciences de l'environnement / Outils numériques
+
+# TP1 : Logiciels libres, Open Source et Science ouverte
+
+Ce dépôt a été créé dans le cadre du **Travail Pratique 1 (TP1)**. Il regroupe les notions fondamentales abordées lors de cette séance :
+
+* **Partie 1 :** Discussion sur les logiciels libres, l'Open Source, et leur importance cruciale dans les sciences de l'environnement, ainsi que le partage des données scientifiques et la reproductibilité.
+* **Partie 2 & 3 :** Découverte de la plateforme **GitHub** sous Windows, création du compte, et initialisation de ce premier dépôt (Repository) avec son fichier `README.md`.
+
+---
+
+**Auteur :** YAHYA MELIANI  
+**Module :** Sciences de l'environnement / Outils numériques
